@@ -6,7 +6,7 @@
 Graduated in Biomedical Engineering from Universidad del Rosario 🎓. Expert in fullstack development with a focus on innovation, participating in biomedical research projects
 
 # 💫 About Me:
-🌟 I'm currently working on **Fungpong**<br>🤝 I'm looking to collaborate on **biomedical projects, software development, and analytics**<br>🆘 I'm looking for help with **business analytics**<br>📚 I'm currently learning **business analytics**<br>🎉 Fun fact: I love exploring innovative tech solutions in the biomedical field!
+🤝 I'm looking to collaborate on **biomedical projects, software development, and analytics**<br>🆘 I'm looking for help with **business analytics**<br>📚 I'm currently learning **business analytics**<br>🎉 Fun fact: I love exploring innovative tech solutions in the biomedical field!
 
 
 ## 🌐 Socials:
