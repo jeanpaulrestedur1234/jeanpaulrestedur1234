@@ -8,7 +8,6 @@
 
 ## 🚀 About Me
 
-I'm a biomedical engineer who codes. My unique background allows me to create technology solutions that address real-world healthcare challenges while maintaining engineering rigor in software development.
 
 **🤝 Open to Collaboration**
 - Biomedical projects and medical device development
